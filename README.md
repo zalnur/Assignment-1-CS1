@@ -15,3 +15,4 @@ problems in that part, and the names of the people you collaborated with.
 - Time Spent: 3:30
 
 
+Adapted from "Introduction to Computer Science and Programming" MIT OpencCourseWare Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
