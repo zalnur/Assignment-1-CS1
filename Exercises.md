@@ -3,7 +3,7 @@
 # Problem Set #1
 
 # Installing Python and IDLE
-Follow the steps in Getting Python for installing Python and IDLE onto the machine you plan to be
+Follow the steps in [Getting Python](http://en.wikibooks.org/wiki/Python_Programming/Getting_Python) for installing Python and IDLE onto the machine you plan to be
 using this term.
 
 Familiarize yourself with Python and IDLE using the exercises given in the handout. Once you are
@@ -26,9 +26,9 @@ Write a program that does the following in order:
 - Asks the user to enter his/her last name.
 - Prints out the user’s last name and date of birth, in that order. 
 
-An example of an interaction with your program is shown below (the words printed in blue are from the
-computer, based on your commands, the words in black are a user’s input – the colors are simply here to
-help you distinguish the two components):
+An example of an interaction with your program is shown below (the words printed in bold are from the
+computer, based on your commands, the words in regular font are a user’s input – the difference 
+help syou distinguish the two components):
 
 Enter your date of birth:
 **01/26/32**
@@ -37,10 +37,13 @@ Enter your last name:
 Grimson 01/26/32
 
 ### Hints:
-To see how to use the print command, you may find it convenient to look at the input and output section
-of the Python Wikibook. This will show you how to use print statements to print out values of strings.
+To see how to use the print command, you may find it convenient to look at the [input and output section
+of the Python Wikibook](http://en.wikibooks.org/wiki/Python_Programming/Input_and_output). This will show you how to use print statements to print out values of strings.
 To see how to read input from a user’s console into the Python environment, you may find it convenient
 to look at the same section (see for example the raw_input or input function).
 Remember that if you want to hold onto a value, you need to store it in a variable (i.e., give it a name to
 which you can refer when you want that value). You may find it convenient to look at the variables and
 strings section of the Python Wikibook. 
+
+
+
