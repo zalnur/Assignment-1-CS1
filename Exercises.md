@@ -22,10 +22,10 @@ access that value as needed.
 Write a program that does the following in order:
 - Asks the user to enter his/her date of birth.
 - Asks the user to enter his/her last name.
-- Prints out the user’s last name and date of birth, in that order. 
+- Prints out the user’s last name and date of birth, in that order.
 
 An example of an interaction with your program is shown below (the words printed in bold are from the
-computer, based on your commands, the words in regular font are a user’s input – the difference 
+computer, based on your commands, the words in regular font are a user’s input – the difference
 help syou distinguish the two components):
 
 Enter your date of birth:
@@ -41,6 +41,7 @@ To see how to read input from a user’s console into the Python environment, yo
 to look at the same section (see for example the raw_input or input function).
 Remember that if you want to hold onto a value, you need to store it in a variable (i.e., give it a name to
 which you can refer when you want that value). You may find it convenient to look at the [variables and
-strings](http://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings) section of the Python Wikibook. 
+strings](http://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings) section of the Python Wikibook.
 
+------------------------------------------------------
 Adapted from ["Introduction to Computer Science and Programming"](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/MIT6_00SCS11_ps0.pdf) MIT OpencCourseWare Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
